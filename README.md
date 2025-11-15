@@ -23,7 +23,7 @@ This repository contains the dataset and code for **MapTrace**, a large-scale sy
       * Uses pixel colors to **propose candidate paths**.
       * Employs MLLMs as **critics** to validate the semantic viability of these paths.
 
-This automated pipeline allowed us to generate **1 million high-quality training samples**.
+This automated pipeline allowed us to generate **2 million high-quality training samples**.
 
 -----
 
